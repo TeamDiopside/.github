@@ -1,10 +1,10 @@
 <div align="center">
-  <img align-items="center" src="https://i.imgur.com/JiW4MLF.png">
+  <a href="https://discord.gg/PJCXjSJnu2/"><img align-items="center" src="https://i.imgur.com/JiW4MLF.png"></a>
   
   # Team Diopside
 
-  Yeah it works
+  Hello there!
 
-  lets test some html here
+  This text needs an update!
 
 </div>
